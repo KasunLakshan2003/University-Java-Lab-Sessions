@@ -6,6 +6,6 @@
 | 2025-12-29 | Convert inches to meters | [FirstPro.java](Basics/FirstPro.java) |
 | 2025-12-29 | Convert minutes to years | [SecPro.java](Basics/SecPro.java) |
 | 2025-12-29 | Calculations for circle, square, rectangle, and triangle | [area.java](Basics/area.java) |
-| 2026-01-01|  |     |
+| 2026-01-01| Add InputValue class to read user input | [InputValue.java](Basics/InputValue.java) |
 
 
