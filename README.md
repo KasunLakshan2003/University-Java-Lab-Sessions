@@ -20,15 +20,15 @@
 | 2026-01-08| Demonstrate printf usage | [PrintArgs.java](Basics/PrintArgs.java) |
 | 2026-01-08| Display name and age(printif) | [PrintArgs2.java](Basics/PrintArgs2.java) |
 | 2026-01-08| Display current time and date | [Column.java](Basics/Column.java) |
-| 2026-01-08|  | [.java](Basics/.java) |
-| 2026-01-08|  | [.java](Basics/.java) |
-| 2026-01-08|  | [.java](Basics/.java) |
-| 2026-01-08|  | [.java](Basics/.java) |
-| 2026-01-08|  | [.java](Basics/.java) |
-| 2026-01-08|  | [.java](Basics/.java) |
-| 2026-01-08|  | [.java](Basics/.java) |
-| 2026-01-08|  | [.java](Basics/.java) |
-| 2026-01-08|  | [.java](Basics/.java) |
+| 2026-01-12| calculate dog's age in dog years | [DogAge.java](Basics/DogAge.java) |
+| 2026-01-12| compare two heights | [Compare.java](Basics/Compare.java) |
+| 2026-01-12| height check | [WaterPark.java](Basics/WaterPark.java) |
+| 2026-01-12| calculate average marks | [Marks.java](Basics/Marks.java) |
+| 2026-01-12| calculate flooring cost | [FloorCost.java](Basics/FloorCost.java) |
+| 2026-01-12| room cost calculation | [FCost.java](Basics/FCost.java) |
+| 2026-01-12| FlooringCost calculator | [FlooringCost.java](Basics/FlooringCost.java) |
+| 2026-01-12| calculate yard perimeter and cost | [Fencing.java](Basics/Fencing.java) |
+| 2026-01-12| student marks input and calculation | [StMarks.java](Basics/StMarks.java) |
 
 
 
