@@ -1,36 +1,26 @@
 import java.util.Scanner;
-public class ElectricityBill{
-	public static void main(String[]args){
-		
-		Scanner myscanner = new Scanner(System.in);
-		
-		System.out.println("Enter total units:- ");
-		double Units = myscanner.nextDouble();
-		
-		double Additional = 0.2;
-		
-		if(Units <= 50){
-			double TotalBill1 = Units * 0.5;
-			double FinalBill1 = TotalBill + (TotalBill * Additional);
-			System.out.println("Your Total Bill Is Rs."+FinalBill1);
-			
-		}else if (Units <= 150){
-			double newUnit1 = Units - 50;
-			double TotalBill2 = (50 * 0.5)+(newUnit1 * 0.75);
-			double FinalBill2 = TotalBill2 + (TotalBill2 * Additional);
-			System.out.println("Your Total Bill Is Rs."+FinalBill2);
-			
-		}else if(Units <= 250){
-			double newUnit2 = Units - 150; 
-			double TotalBill3 = (50 * 0.5)+(100 * 0.75)+(newUnit2 * 1.20);
-			double FinalBill3 = TotalBill3 + (TotalBill3 * Additional);
-			System.out.println("Your Total Bill Is Rs."+FinalBill3);
-			
-		}else if(Units > 250){
-			double newUnit3 = Units - 250;
-			double TotalBill4= (50 * 0.5)+(100 * 0.75)+(100 * 1.20)+(newUnit3 * 1.50);
-			double FinalBill4 = TotalBill4 + (TotalBill4 * Additional);
-			System.out.println("Your Total Bill Is Rs."+FinalBill4);
-		}
-	}
+
+public class CalculateElectricityBill {
+    public static void main(String[] args) {
+        Scanner myscanner = new Scanner(System.in);
+
+        System.out.print("Enter total units: ");
+        double units = myscanner.nextDouble();
+        
+        double baseBill = 0;
+
+        if (units <= 50) {
+            baseBill = units * 0.50;
+        } else if (units <= 150) {
+            baseBill = (50 * 0.50) + (units - 50) * 0.75;
+        } else if (units <= 250) {
+            baseBill = (50 * 0.50) + (100 * 0.75) + (units - 150) * 1.20;
+        } else {
+            baseBill = (50 * 0.50) + (100 * 0.75) + (100 * 1.20) + (units - 250) * 1.50;
+        }
+
+        double finalBill = baseBill + baseBill * 0.20;
+
+        System.out.println("Your final bill is Rs."+finalBill);
+    }
 }
