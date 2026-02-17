@@ -50,20 +50,17 @@
 | 2026-01-29| Find vowel indices in a string |  [Vowels.java](Basics/Vowels.java) |
 | 2026-01-29| Search for substring index |  [findInside.java](Basics/findInside.java) |
 | 2026-01-29| Program to locate 'OOP' in a string |  [FindOOP.java](Basics/FindOOP.java) |
-| 2026-01-29|  |  [.java](Basics/.java) |
-| 2026-01-29|  |  [.java](Basics/.java) |
-| 2026-01-29|  |  [.java](Basics/.java) |
-| 2026-01-29|  |  [.java](Basics/.java) |
-| 2026-01-22|  |  [.java](Basics/.java) |
-| 2026-01-22|  |  [.java](Basics/.java) |
-| 2026-01-22|  |  [.java](Basics/.java) |
-| 2026-01-22|  |  [.java](Basics/.java) |
-| 2026-01-22|  |  [.java](Basics/.java) |
-| 2026-01-22|  |  [.java](Basics/.java) |
-| 2026-01-22|  |  [.java](Basics/.java) |
-| 2026-01-22|  |  [.java](Basics/.java) |
-| 2026-01-22|  |  [.java](Basics/.java) |
-| 2026-01-22|  |  [.java](Basics/.java) |
+| 2026-02-09| for iteration demonstration |  [LearnIteration1.java](Basics/LearnIteration1.java) |
+| 2026-02-09| Iteration for five sum |  [FiveInputs.java](Basics/FiveInputs.java) |
+| 2026-02-09| 1 to 10 iteration|  [LearnIteration.java](Basics/LearnIteration.java) |
+| 2026-02-09| Find factoiral for given number |  [LearnIteration.java](Basics/LearnIteration.java) |
+| 2026-02-09| Find 2's multiplies in a given range |  [TwosMulti.java](Basics/TwosMulti.java) |
+| 2026-02-12| Learn while loop |  [Wloop1.java](Basics/Wloop1.java) |
+| 2026-02-12| Print characters in a given word |  [CharPrint.java](Basics/CharPrint.java) |
+| 2026-02-12| Check if a given text is a palindrome |  [Palindrome.java](Basics/Palindrome.java) |
+| 2026-02-12| Decimal into binary conversion |  [Conversion.java](Basics/Conversion.java) |
+| 2026-02-12| Decimal into any base between 2 and 16 |  [ConversionExtend.java](Basics/ConversionExtend.java) |
+
 
 
 
