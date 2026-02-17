@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CalculateElectricityBill {
+public class ElectricityBill {
     public static void main(String[] args) {
         Scanner myscanner = new Scanner(System.in);
 
